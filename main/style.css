@@ -32,4 +32,30 @@
       -ms-flex-direction: column;
           flex-direction: column;
 }
+
+* .house #about {
+  height: 100vh;
+  background-color: #0E4946;
+  color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+* .house #portfolio {
+  height: 100vh;
+  background-color: #080E2F;
+  color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
 /*# sourceMappingURL=style.css.map */
